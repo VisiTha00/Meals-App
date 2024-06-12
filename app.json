@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "meals-app",
-    "slug": "meals-app",
+    "name": "My Recipe Book",
+    "slug": "my_recipe_book",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "backgroundColor": "#7a0c0c",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/splashNew.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#decbca"
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
